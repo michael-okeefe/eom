@@ -1,0 +1,16 @@
+*.sh
+pom.xml
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+.DS_Store
+*.html
+.lein-failures
+.project
+docs
+target
+tracking.md
+*.pdf
+*.tex
+tex

@@ -1,0 +1,5 @@
+#eom/dutycycle
+{:name "Constant speed cycle"
+ :times-s [0.0, 50.0]
+ :speeds-m--s [20.1168, 20.1168]
+ :elevations-m [0.0, 0.0]}
