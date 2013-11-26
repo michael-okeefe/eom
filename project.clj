@@ -7,7 +7,7 @@
 (defproject eom "0.0.2"
   :description "Economy of Motion"
   :url "http://www.imaginemade.com/eom"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :license {:name "Mozilla Public License Version 2.0"
+            :url "http://www.mozilla.org/MPL/2.0/"}
   :profiles {:dev {:dependencies [[midje "1.5.1"]]}}
   :dependencies [[org.clojure/clojure "1.5.1"]])
