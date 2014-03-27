@@ -4,6 +4,14 @@ Economy of Motion is a library for conducting vehicle energy-use
 and (eventually) economic analyses using the [Clojure](http://clojure.org)
 Programming Language.
 
+## Clojure/Conj Talk
+
+[Predicting Vehicle Energy Usage with Clojure](https://www.youtube.com/watch?v=joOGH-JtHNY)
+
+## Current Status
+
+Note! Library development has been put on hold while I explore other options for the runtime system. I intend to continue development after that point.
+
 ## Build Status
 
 [![Build Status](https://travis-ci.org/ImagineMade/eom.png?branch=master)](https://travis-ci.org/ImagineMade/eom)
