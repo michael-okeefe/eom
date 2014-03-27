@@ -14,7 +14,7 @@ Note! Library development has been put on hold while I explore other options for
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/ImagineMade/eom.png?branch=master)](https://travis-ci.org/ImagineMade/eom)
+[![Build Status](https://travis-ci.org/michael-okeefe/eom.png?branch=master)](https://travis-ci.org/michael-okeefe/eom)
 
 ## Project Goals
 
